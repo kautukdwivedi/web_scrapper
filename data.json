@@ -1,0 +1,2016 @@
+{
+  "Amp": [
+    {
+      "projectName": "amp",
+      "projectUrl": "https://github.com/amphp/amp",
+      "issues": [
+        {
+          "IssueTitle": "Can't terminate a Amp\\Http\\Server\\Request without first consuming the body stream",
+          "IssueUrl": "https://github.com/amphp/amp/issues/346"
+        },
+        {
+          "IssueTitle": "suggestion: release event-loop as a seperate package",
+          "IssueUrl": "https://github.com/amphp/amp/issues/345"
+        },
+        {
+          "IssueTitle": "EventDriver Invalid file descriptor",
+          "IssueUrl": "https://github.com/amphp/amp/issues/344"
+        },
+        {
+          "IssueTitle": "php8 on windows with error",
+          "IssueUrl": "https://github.com/amphp/amp/issues/343"
+        },
+        {
+          "IssueTitle": "Can't install composer deps on v3",
+          "IssueUrl": "https://github.com/amphp/amp/issues/335"
+        },
+        {
+          "IssueTitle": "PHP CGI Emulation",
+          "IssueUrl": "https://github.com/amphp/amp/issues/333"
+        },
+        {
+          "IssueTitle": "UvDriver Signal Example Issue/Suggestion (100% cpu)",
+          "IssueUrl": "https://github.com/amphp/amp/issues/329"
+        },
+        {
+          "IssueTitle": "UvDriver warnings",
+          "IssueUrl": "https://github.com/amphp/amp/issues/328"
+        },
+        {
+          "IssueTitle": "Adding documentation for static analysis tools",
+          "IssueUrl": "https://github.com/amphp/amp/issues/305"
+        },
+        {
+          "IssueTitle": "UVLoop handle is already closed error with basic parallel example",
+          "IssueUrl": "https://github.com/amphp/amp/issues/300"
+        },
+        {
+          "IssueTitle": "Amp v3 with ext-fiber support",
+          "IssueUrl": "https://github.com/amphp/amp/issues/297"
+        },
+        {
+          "IssueTitle": "Version >= 2.2.1 might cause backpressure changes",
+          "IssueUrl": "https://github.com/amphp/amp/issues/291"
+        },
+        {
+          "IssueTitle": "Possible adaptation of NativeDriver needed for sapi_windows_set_ctrl_handler in PHP 7.4",
+          "IssueUrl": "https://github.com/amphp/amp/issues/262"
+        },
+        {
+          "IssueTitle": "Non-cooperative coroutine",
+          "IssueUrl": "https://github.com/amphp/amp/issues/261"
+        },
+        {
+          "IssueTitle": "Add PromisePool",
+          "IssueUrl": "https://github.com/amphp/amp/issues/259"
+        },
+        {
+          "IssueTitle": "PHP Warning produced when phpdbg is used",
+          "IssueUrl": "https://github.com/amphp/amp/issues/258"
+        },
+        {
+          "IssueTitle": "Support idle watchers",
+          "IssueUrl": "https://github.com/amphp/amp/issues/214"
+        },
+        {
+          "IssueTitle": "Thanks for making the most important open source PHP library currently",
+          "IssueUrl": "https://github.com/amphp/amp/issues/213"
+        },
+        {
+          "IssueTitle": "Adopt \"async context\" terminology in documentation",
+          "IssueUrl": "https://github.com/amphp/amp/issues/210"
+        },
+        {
+          "IssueTitle": "Adoption of packages",
+          "IssueUrl": "https://github.com/amphp/amp/issues/205"
+        },
+        {
+          "IssueTitle": "SMTP Support",
+          "IssueUrl": "https://github.com/amphp/amp/issues/202"
+        },
+        {
+          "IssueTitle": "Support for Guzzle / generic promise adaption",
+          "IssueUrl": "https://github.com/amphp/amp/issues/200"
+        },
+        {
+          "IssueTitle": "Cassandra support",
+          "IssueUrl": "https://github.com/amphp/amp/issues/183"
+        },
+        {
+          "IssueTitle": "SQLite3 Support",
+          "IssueUrl": "https://github.com/amphp/amp/issues/181"
+        },
+        {
+          "IssueTitle": "Iterators and garbage collection",
+          "IssueUrl": "https://github.com/amphp/amp/issues/168"
+        }
+      ]
+    },
+    {
+      "projectName": "MadelineProto",
+      "projectUrl": "https://github.com/danog/MadelineProto",
+      "issues": [
+        {
+          "IssueTitle": "How to disable php sapi CGI",
+          "IssueUrl": "https://github.com/danog/MadelineProto/issues/916"
+        },
+        {
+          "IssueTitle": "Could not extract type: Message with id 44f9b43d",
+          "IssueUrl": "https://github.com/danog/MadelineProto/issues/915"
+        },
+        {
+          "IssueTitle": "Memory Errors Started Yesterday",
+          "IssueUrl": "https://github.com/danog/MadelineProto/issues/914"
+        },
+        {
+          "IssueTitle": "How I do generating phone_code_hash to be passing in to auth.signIn() method",
+          "IssueUrl": "https://github.com/danog/MadelineProto/issues/912"
+        },
+        {
+          "IssueTitle": "ImportAuthorization",
+          "IssueUrl": "https://github.com/danog/MadelineProto/issues/911"
+        },
+        {
+          "IssueTitle": "Why method: messages.sendMedia  that i used int loop it can send only to 4 group?",
+          "IssueUrl": "https://github.com/danog/MadelineProto/issues/910"
+        },
+        {
+          "IssueTitle": "Getting exception while using with Symfony - The \"Amp\\Internal\\Placeholder\" trait is considered internal",
+          "IssueUrl": "https://github.com/danog/MadelineProto/issues/909"
+        },
+        {
+          "IssueTitle": "Get History error",
+          "IssueUrl": "https://github.com/danog/MadelineProto/issues/908"
+        },
+        {
+          "IssueTitle": "expiring invite links",
+          "IssueUrl": "https://github.com/danog/MadelineProto/issues/907"
+        },
+        {
+          "IssueTitle": "Handling updates with multi-account",
+          "IssueUrl": "https://github.com/danog/MadelineProto/issues/903"
+        },
+        {
+          "IssueTitle": "How to add contact to my telegram ?",
+          "IssueUrl": "https://github.com/danog/MadelineProto/issues/895"
+        },
+        {
+          "IssueTitle": "What does the error \"400. USERS_TOO_MUCH\" mean?",
+          "IssueUrl": "https://github.com/danog/MadelineProto/issues/893"
+        },
+        {
+          "IssueTitle": "People NearBy",
+          "IssueUrl": "https://github.com/danog/MadelineProto/issues/891"
+        },
+        {
+          "IssueTitle": "get Channel ID after channel created",
+          "IssueUrl": "https://github.com/danog/MadelineProto/issues/890"
+        },
+        {
+          "IssueTitle": "EventHandler not working after 30 minutes",
+          "IssueUrl": "https://github.com/danog/MadelineProto/issues/888"
+        },
+        {
+          "IssueTitle": "When use inputMediaUploadedPhoto method - get Warning: spl_object_id() expects parameter 1 to be object, null given",
+          "IssueUrl": "https://github.com/danog/MadelineProto/issues/887"
+        },
+        {
+          "IssueTitle": "ReadLoop: NothingInTheSocketException",
+          "IssueUrl": "https://github.com/danog/MadelineProto/issues/886"
+        },
+        {
+          "IssueTitle": "Undefined property: danog\\MadelineProto\\MTProto::$channel_participants",
+          "IssueUrl": "https://github.com/danog/MadelineProto/issues/884"
+        },
+        {
+          "IssueTitle": "Multiple session",
+          "IssueUrl": "https://github.com/danog/MadelineProto/issues/883"
+        },
+        {
+          "IssueTitle": "file_get_contents(http://ipv6.google.com/): Failed to open stream: Network is unreachable in Magic.php:307",
+          "IssueUrl": "https://github.com/danog/MadelineProto/issues/882"
+        },
+        {
+          "IssueTitle": "Download the special version of the phar file of the project",
+          "IssueUrl": "https://github.com/danog/MadelineProto/issues/880"
+        },
+        {
+          "IssueTitle": "Given message id is too new compared to the max value",
+          "IssueUrl": "https://github.com/danog/MadelineProto/issues/875"
+        },
+        {
+          "IssueTitle": "auth->cancelCode() not doing anything?",
+          "IssueUrl": "https://github.com/danog/MadelineProto/issues/838"
+        },
+        {
+          "IssueTitle": "discard() method not ending a call",
+          "IssueUrl": "https://github.com/danog/MadelineProto/issues/837"
+        },
+        {
+          "IssueTitle": "$MadelineProto->messages->getChats      not work  , need help",
+          "IssueUrl": "https://github.com/danog/MadelineProto/issues/836"
+        }
+      ]
+    },
+    {
+      "projectName": "http-server",
+      "projectUrl": "https://github.com/amphp/http-server",
+      "issues": [
+        {
+          "IssueTitle": "Support HTTP/2 Priorization",
+          "IssueUrl": "https://github.com/amphp/http-server/issues/271"
+        },
+        {
+          "IssueTitle": "OCSP Stapling",
+          "IssueUrl": "https://github.com/amphp/http-server/issues/85"
+        }
+      ]
+    },
+    {
+      "projectName": "telegram-api",
+      "projectUrl": "https://github.com/unreal4u/telegram-api",
+      "issues": [
+        {
+          "IssueTitle": "How to use MessageEntity?",
+          "IssueUrl": "https://github.com/unreal4u/telegram-api/issues/131"
+        },
+        {
+          "IssueTitle": "Implement Bot API v5.0",
+          "IssueUrl": "https://github.com/unreal4u/telegram-api/issues/129"
+        },
+        {
+          "IssueTitle": "Undefined offset: 28 in /var/www/vendor/react/socket/src/HappyEyeBallsConnectionBuilder.php on line 95",
+          "IssueUrl": "https://github.com/unreal4u/telegram-api/issues/122"
+        },
+        {
+          "IssueTitle": "installing use composer: Package amphp/artax is abandoned",
+          "IssueUrl": "https://github.com/unreal4u/telegram-api/issues/118"
+        },
+        {
+          "IssueTitle": "Splitting too long messages into multiple messages",
+          "IssueUrl": "https://github.com/unreal4u/telegram-api/issues/117"
+        },
+        {
+          "IssueTitle": "EditMessageMedia method not working",
+          "IssueUrl": "https://github.com/unreal4u/telegram-api/issues/112"
+        },
+        {
+          "IssueTitle": "BUTTON_TYPE_INVALID when inline keyboard is used as reply_markup in InlineQueryResults",
+          "IssueUrl": "https://github.com/unreal4u/telegram-api/issues/110"
+        },
+        {
+          "IssueTitle": "Many unwanted messages",
+          "IssueUrl": "https://github.com/unreal4u/telegram-api/issues/109"
+        },
+        {
+          "IssueTitle": "maximum execution time error for react event loop",
+          "IssueUrl": "https://github.com/unreal4u/telegram-api/issues/103"
+        },
+        {
+          "IssueTitle": "What is this error for keyboard ?",
+          "IssueUrl": "https://github.com/unreal4u/telegram-api/issues/98"
+        }
+      ]
+    },
+    {
+      "projectName": "http-client",
+      "projectUrl": "https://github.com/amphp/http-client",
+      "issues": [
+        {
+          "IssueTitle": "Connect with ssl certificate",
+          "IssueUrl": "https://github.com/amphp/http-client/issues/290"
+        },
+        {
+          "IssueTitle": "Connection not being cleaned up after Loop",
+          "IssueUrl": "https://github.com/amphp/http-client/issues/289"
+        },
+        {
+          "IssueTitle": "Does \\tempnam blocks event loop? (streaming example)",
+          "IssueUrl": "https://github.com/amphp/http-client/issues/288"
+        },
+        {
+          "IssueTitle": "What is closed early with 0 bytes received?",
+          "IssueUrl": "https://github.com/amphp/http-client/issues/286"
+        },
+        {
+          "IssueTitle": "How to use multiple local ip to bind.",
+          "IssueUrl": "https://github.com/amphp/http-client/issues/285"
+        },
+        {
+          "IssueTitle": "Support non-keep alive connections",
+          "IssueUrl": "https://github.com/amphp/http-client/issues/261"
+        },
+        {
+          "IssueTitle": "Support CONNECT on HTTP/2",
+          "IssueUrl": "https://github.com/amphp/http-client/issues/229"
+        },
+        {
+          "IssueTitle": "Support HSTS",
+          "IssueUrl": "https://github.com/amphp/http-client/issues/112"
+        }
+      ]
+    },
+    {
+      "projectName": "parallel",
+      "projectUrl": "https://github.com/amphp/parallel",
+      "issues": [
+        {
+          "IssueTitle": "The worker crashed / Loop exceptionally stopped without resolving the promise",
+          "IssueUrl": "https://github.com/amphp/parallel/issues/129"
+        },
+        {
+          "IssueTitle": "Count of working workers less then maximum pool size",
+          "IssueUrl": "https://github.com/amphp/parallel/issues/128"
+        },
+        {
+          "IssueTitle": "Worker in pool exited unexpectedly with code -1",
+          "IssueUrl": "https://github.com/amphp/parallel/issues/126"
+        },
+        {
+          "IssueTitle": "Connection Timeout",
+          "IssueUrl": "https://github.com/amphp/parallel/issues/124"
+        },
+        {
+          "IssueTitle": "not get response from call a user function",
+          "IssueUrl": "https://github.com/amphp/parallel/issues/122"
+        },
+        {
+          "IssueTitle": "PHP Parallel Extension: Worker in pool exited unexpectedly",
+          "IssueUrl": "https://github.com/amphp/parallel/issues/121"
+        },
+        {
+          "IssueTitle": "not able fetching multiple data from the different function using amphp/parallel",
+          "IssueUrl": "https://github.com/amphp/parallel/issues/120"
+        },
+        {
+          "IssueTitle": "ContextException: Starting the process failed",
+          "IssueUrl": "https://github.com/amphp/parallel/issues/119"
+        },
+        {
+          "IssueTitle": "Warnings and errors with parallel driver on Windows",
+          "IssueUrl": "https://github.com/amphp/parallel/issues/117"
+        },
+        {
+          "IssueTitle": "[BUG/QUESTION] How does one use Laravel's facades inside a Task?",
+          "IssueUrl": "https://github.com/amphp/parallel/issues/116"
+        },
+        {
+          "IssueTitle": "test coverage problem",
+          "IssueUrl": "https://github.com/amphp/parallel/issues/114"
+        },
+        {
+          "IssueTitle": "Static analysis to check ability to serialize",
+          "IssueUrl": "https://github.com/amphp/parallel/issues/113"
+        },
+        {
+          "IssueTitle": "How to launch multiple blocking processes",
+          "IssueUrl": "https://github.com/amphp/parallel/issues/112"
+        },
+        {
+          "IssueTitle": "Parallel processing in loop for more than 200 iteration causing zombie processes",
+          "IssueUrl": "https://github.com/amphp/parallel/issues/107"
+        },
+        {
+          "IssueTitle": "DX: \"TaskFailure:  use Amp\\Parallel\\Worker\\TaskException::getWorkerTrace() for the stack trace in the worker\"",
+          "IssueUrl": "https://github.com/amphp/parallel/issues/101"
+        },
+        {
+          "IssueTitle": "Add Xdebug forwarding",
+          "IssueUrl": "https://github.com/amphp/parallel/issues/95"
+        },
+        {
+          "IssueTitle": "Debugging",
+          "IssueUrl": "https://github.com/amphp/parallel/issues/93"
+        },
+        {
+          "IssueTitle": "Support customizing the sub-process options",
+          "IssueUrl": "https://github.com/amphp/parallel/issues/75"
+        },
+        {
+          "IssueTitle": "Support delayed port access (e.g. due to firewalls)",
+          "IssueUrl": "https://github.com/amphp/parallel/issues/73"
+        },
+        {
+          "IssueTitle": "Add ability to restart pool and workers",
+          "IssueUrl": "https://github.com/amphp/parallel/issues/64"
+        },
+        {
+          "IssueTitle": "Logging",
+          "IssueUrl": "https://github.com/amphp/parallel/issues/50"
+        },
+        {
+          "IssueTitle": "Add documentation",
+          "IssueUrl": "https://github.com/amphp/parallel/issues/31"
+        },
+        {
+          "IssueTitle": "Watch memory and restart workers",
+          "IssueUrl": "https://github.com/amphp/parallel/issues/22"
+        }
+      ]
+    },
+    {
+      "projectName": "service-bus",
+      "projectUrl": "https://github.com/php-service-bus/service-bus",
+      "issues": [
+        {
+          "IssueTitle": "Work with Azure Service Bus?",
+          "IssueUrl": "https://github.com/php-service-bus/service-bus/issues/148"
+        }
+      ]
+    },
+    {
+      "projectName": "mysql",
+      "projectUrl": "https://github.com/amphp/mysql",
+      "issues": [
+        {
+          "IssueTitle": "Connection closed unexpectedly",
+          "IssueUrl": "https://github.com/amphp/mysql/issues/108"
+        },
+        {
+          "IssueTitle": "Can we have lastInsertId returned in a different method when UUID is used as Primary Key?",
+          "IssueUrl": "https://github.com/amphp/mysql/issues/107"
+        },
+        {
+          "IssueTitle": "Request: Connection Example for TLS",
+          "IssueUrl": "https://github.com/amphp/mysql/issues/103"
+        },
+        {
+          "IssueTitle": "Stacktrace and debugging",
+          "IssueUrl": "https://github.com/amphp/mysql/issues/100"
+        },
+        {
+          "IssueTitle": "Fatal error: Cannot use Amp\\Sql\\Pool as Pool because the name is already in use",
+          "IssueUrl": "https://github.com/amphp/mysql/issues/97"
+        },
+        {
+          "IssueTitle": "\"INSERT ... SELECT Syntax\" return ConnectionException",
+          "IssueUrl": "https://github.com/amphp/mysql/issues/89"
+        },
+        {
+          "IssueTitle": "Error when adding a trigger",
+          "IssueUrl": "https://github.com/amphp/mysql/issues/87"
+        },
+        {
+          "IssueTitle": "PDO::quote alternative",
+          "IssueUrl": "https://github.com/amphp/mysql/issues/85"
+        },
+        {
+          "IssueTitle": "Enlarge test matrix",
+          "IssueUrl": "https://github.com/amphp/mysql/issues/80"
+        },
+        {
+          "IssueTitle": "Error code in QueryError",
+          "IssueUrl": "https://github.com/amphp/mysql/issues/56"
+        }
+      ]
+    }
+  ],
+  "Redux": [
+    {
+      "projectName": "redux",
+      "projectUrl": "https://github.com/reduxjs/redux",
+      "issues": [
+        {
+          "IssueTitle": "Update build tooling to target modern environments",
+          "IssueUrl": "https://github.com/reduxjs/redux/issues/4050"
+        },
+        {
+          "IssueTitle": "Drop external dependencies for 4.1",
+          "IssueUrl": "https://github.com/reduxjs/redux/issues/4046"
+        },
+        {
+          "IssueTitle": "Link or create additional RTK templates",
+          "IssueUrl": "https://github.com/reduxjs/redux/issues/4035"
+        },
+        {
+          "IssueTitle": "Dispatch \"Use custom middleware for async actions\" is confusing and should be updated",
+          "IssueUrl": "https://github.com/reduxjs/redux/issues/4028"
+        },
+        {
+          "IssueTitle": "[Docs] Create video/interactive versions of the new Redux tutorials",
+          "IssueUrl": "https://github.com/reduxjs/redux/issues/4024"
+        },
+        {
+          "IssueTitle": "[Docs: Rewrite] The Editing Posts section missing the component Route",
+          "IssueUrl": "https://github.com/reduxjs/redux/issues/4012"
+        },
+        {
+          "IssueTitle": "[Docs: Rewrite] Unexplained switch to separate <PostExcerpt> component usage",
+          "IssueUrl": "https://github.com/reduxjs/redux/issues/4000"
+        },
+        {
+          "IssueTitle": "[Docs: Rephrase] Explain correctly what a thunk is",
+          "IssueUrl": "https://github.com/reduxjs/redux/issues/3972"
+        },
+        {
+          "IssueTitle": "[Tutorial Docs] Updating Initial state to account for expected changes in UI (PR: #3964)",
+          "IssueUrl": "https://github.com/reduxjs/redux/issues/3967"
+        },
+        {
+          "IssueTitle": "Try integrating Redux Toolkit and React-Redux docs",
+          "IssueUrl": "https://github.com/reduxjs/redux/issues/3958"
+        },
+        {
+          "IssueTitle": "[Docs Rewrite] Meta-Issue: Rewrite Examples",
+          "IssueUrl": "https://github.com/reduxjs/redux/issues/3917"
+        },
+        {
+          "IssueTitle": "Docs: Add example for Reusing Reducer Logic",
+          "IssueUrl": "https://github.com/reduxjs/redux/issues/3900"
+        },
+        {
+          "IssueTitle": "StoreEnhancer has incorrect parameter type",
+          "IssueUrl": "https://github.com/reduxjs/redux/issues/3768"
+        },
+        {
+          "IssueTitle": "replaceReducer type doesn't account for the mutation to the original store",
+          "IssueUrl": "https://github.com/reduxjs/redux/issues/3767"
+        },
+        {
+          "IssueTitle": "Use Redux toolkit but do not use Immutable",
+          "IssueUrl": "https://github.com/reduxjs/redux/issues/3711"
+        },
+        {
+          "IssueTitle": "[Docs Rewrite] Create \"Treat Reducers as State Machines\" page",
+          "IssueUrl": "https://github.com/reduxjs/redux/issues/3692"
+        },
+        {
+          "IssueTitle": "Consider using error code strategy employed by react",
+          "IssueUrl": "https://github.com/reduxjs/redux/issues/3655"
+        },
+        {
+          "IssueTitle": "[Docs Rewrite] Discussion: Ideas from Other Docs and Resources",
+          "IssueUrl": "https://github.com/reduxjs/redux/issues/3615"
+        },
+        {
+          "IssueTitle": "[Docs Rewrite] New Page: Data Fetching and Caching",
+          "IssueUrl": "https://github.com/reduxjs/redux/issues/3613"
+        },
+        {
+          "IssueTitle": "[Docs Rewrite] Discussion: Docs writing guidelines and issue templates",
+          "IssueUrl": "https://github.com/reduxjs/redux/issues/3609"
+        },
+        {
+          "IssueTitle": "[Docs Rewrite] Meta-Issue: Other Content",
+          "IssueUrl": "https://github.com/reduxjs/redux/issues/3602"
+        },
+        {
+          "IssueTitle": "[Docs Rewrite] Meta-Issue: Understanding Redux section",
+          "IssueUrl": "https://github.com/reduxjs/redux/issues/3600"
+        },
+        {
+          "IssueTitle": "[Docs Rewrite] Meta-Issue: Using Redux with a UI",
+          "IssueUrl": "https://github.com/reduxjs/redux/issues/3599"
+        },
+        {
+          "IssueTitle": "[Docs Rewrite] Meta-Issue: Using Redux",
+          "IssueUrl": "https://github.com/reduxjs/redux/issues/3598"
+        },
+        {
+          "IssueTitle": "[Docs Rewrite] Meta-Issue: FAQ",
+          "IssueUrl": "https://github.com/reduxjs/redux/issues/3597"
+        }
+      ]
+    },
+    {
+      "projectName": "react-boilerplate",
+      "projectUrl": "https://github.com/react-boilerplate/react-boilerplate",
+      "issues": [
+        {
+          "IssueTitle": "Upgrading to react & react-dom v 17.0.2 breaks useInjectSaga & useInjectReducer tests",
+          "IssueUrl": "https://github.com/react-boilerplate/react-boilerplate/issues/3011"
+        },
+        {
+          "IssueTitle": "Immer 3.0.0 Contains Security Vulnerability",
+          "IssueUrl": "https://github.com/react-boilerplate/react-boilerplate/issues/3008"
+        },
+        {
+          "IssueTitle": "Request for tutorials deploy to droplet service at Digital Ocean",
+          "IssueUrl": "https://github.com/react-boilerplate/react-boilerplate/issues/2997"
+        },
+        {
+          "IssueTitle": "Running \"npm run setup\" Returns \"npm ERR! missing script: setup\"",
+          "IssueUrl": "https://github.com/react-boilerplate/react-boilerplate/issues/2993"
+        },
+        {
+          "IssueTitle": "Updating package.json to latest causing issues",
+          "IssueUrl": "https://github.com/react-boilerplate/react-boilerplate/issues/2992"
+        },
+        {
+          "IssueTitle": "selectors dont work after yarn run clean",
+          "IssueUrl": "https://github.com/react-boilerplate/react-boilerplate/issues/2989"
+        },
+        {
+          "IssueTitle": "Move key for reducer from route component to route selector/constants",
+          "IssueUrl": "https://github.com/react-boilerplate/react-boilerplate/issues/2986"
+        },
+        {
+          "IssueTitle": "after importing CSS in the component I can't see the filename and line number in the inspect element.",
+          "IssueUrl": "https://github.com/react-boilerplate/react-boilerplate/issues/2984"
+        },
+        {
+          "IssueTitle": "babel plugin error in production",
+          "IssueUrl": "https://github.com/react-boilerplate/react-boilerplate/issues/2980"
+        },
+        {
+          "IssueTitle": "Error Boundary",
+          "IssueUrl": "https://github.com/react-boilerplate/react-boilerplate/issues/2979"
+        },
+        {
+          "IssueTitle": "Running \"npm run setup\" shows 570000 vulnerabilities in output",
+          "IssueUrl": "https://github.com/react-boilerplate/react-boilerplate/issues/2974"
+        },
+        {
+          "IssueTitle": "No built-in solution to dynamically load app locales messages ?",
+          "IssueUrl": "https://github.com/react-boilerplate/react-boilerplate/issues/2967"
+        },
+        {
+          "IssueTitle": "Unable to set up environment variable through .env file",
+          "IssueUrl": "https://github.com/react-boilerplate/react-boilerplate/issues/2965"
+        },
+        {
+          "IssueTitle": "Problem when use with antd and momentjs",
+          "IssueUrl": "https://github.com/react-boilerplate/react-boilerplate/issues/2964"
+        },
+        {
+          "IssueTitle": "Wrong use of reselect in the selectors",
+          "IssueUrl": "https://github.com/react-boilerplate/react-boilerplate/issues/2963"
+        },
+        {
+          "IssueTitle": "Migration guide to react-boilerplate-cra-template",
+          "IssueUrl": "https://github.com/react-boilerplate/react-boilerplate/issues/2961"
+        },
+        {
+          "IssueTitle": "Unable to Set New Env Variables",
+          "IssueUrl": "https://github.com/react-boilerplate/react-boilerplate/issues/2959"
+        },
+        {
+          "IssueTitle": "Utilizing .env in firebase-messaging-sw.js with react boilerplate",
+          "IssueUrl": "https://github.com/react-boilerplate/react-boilerplate/issues/2952"
+        },
+        {
+          "IssueTitle": "NPM run setup fails on current master",
+          "IssueUrl": "https://github.com/react-boilerplate/react-boilerplate/issues/2951"
+        },
+        {
+          "IssueTitle": "Build Error on Windows",
+          "IssueUrl": "https://github.com/react-boilerplate/react-boilerplate/issues/2949"
+        },
+        {
+          "IssueTitle": "Using redux-requests",
+          "IssueUrl": "https://github.com/react-boilerplate/react-boilerplate/issues/2947"
+        },
+        {
+          "IssueTitle": "Using RBP for MICRO FRONT",
+          "IssueUrl": "https://github.com/react-boilerplate/react-boilerplate/issues/2943"
+        },
+        {
+          "IssueTitle": "You may need an appropriate loader to handle this file type.",
+          "IssueUrl": "https://github.com/react-boilerplate/react-boilerplate/issues/2934"
+        },
+        {
+          "IssueTitle": "Question : Babel exclude and only",
+          "IssueUrl": "https://github.com/react-boilerplate/react-boilerplate/issues/2930"
+        },
+        {
+          "IssueTitle": "Problem in loading splash",
+          "IssueUrl": "https://github.com/react-boilerplate/react-boilerplate/issues/2924"
+        }
+      ]
+    },
+    {
+      "projectName": "redux-saga",
+      "projectUrl": "https://github.com/redux-saga/redux-saga",
+      "issues": [
+        {
+          "IssueTitle": "Async action queue dispatching",
+          "IssueUrl": "https://github.com/redux-saga/redux-saga/issues/2172"
+        },
+        {
+          "IssueTitle": "real-world example can not run correctly. window is not defined",
+          "IssueUrl": "https://github.com/redux-saga/redux-saga/issues/2167"
+        },
+        {
+          "IssueTitle": "Access class instance inside Sagas",
+          "IssueUrl": "https://github.com/redux-saga/redux-saga/issues/2164"
+        },
+        {
+          "IssueTitle": "Call effect before all watchers",
+          "IssueUrl": "https://github.com/redux-saga/redux-saga/issues/2161"
+        },
+        {
+          "IssueTitle": "Intermittent freezing in firefox",
+          "IssueUrl": "https://github.com/redux-saga/redux-saga/issues/2158"
+        },
+        {
+          "IssueTitle": "When using takeEvery to replace while loop and take, the error handling stops working",
+          "IssueUrl": "https://github.com/redux-saga/redux-saga/issues/2155"
+        },
+        {
+          "IssueTitle": "I am using react saga, it's rendering twice once called in development environment.",
+          "IssueUrl": "https://github.com/redux-saga/redux-saga/issues/2153"
+        },
+        {
+          "IssueTitle": "Can't import with extensions",
+          "IssueUrl": "https://github.com/redux-saga/redux-saga/issues/2152"
+        },
+        {
+          "IssueTitle": "The future of redux-saga",
+          "IssueUrl": "https://github.com/redux-saga/redux-saga/issues/2151"
+        },
+        {
+          "IssueTitle": "Using race in the loginFlow example from the tutorial to consolidate login logic",
+          "IssueUrl": "https://github.com/redux-saga/redux-saga/issues/2150"
+        },
+        {
+          "IssueTitle": "Can't resolve '@redux-saga/core' in latest version",
+          "IssueUrl": "https://github.com/redux-saga/redux-saga/issues/2148"
+        },
+        {
+          "IssueTitle": "Trace saga put origins for debugging purposes - saga function name and line number",
+          "IssueUrl": "https://github.com/redux-saga/redux-saga/issues/2147"
+        },
+        {
+          "IssueTitle": "Where to find the asEffect function that used to be in redux-saga/utils?",
+          "IssueUrl": "https://github.com/redux-saga/redux-saga/issues/2145"
+        },
+        {
+          "IssueTitle": "Saga redux duplicate call api",
+          "IssueUrl": "https://github.com/redux-saga/redux-saga/issues/2144"
+        },
+        {
+          "IssueTitle": "put is lagging the UI",
+          "IssueUrl": "https://github.com/redux-saga/redux-saga/issues/2140"
+        },
+        {
+          "IssueTitle": "Implement Stalebot?",
+          "IssueUrl": "https://github.com/redux-saga/redux-saga/issues/2139"
+        },
+        {
+          "IssueTitle": "Multiple API Call",
+          "IssueUrl": "https://github.com/redux-saga/redux-saga/issues/2138"
+        },
+        {
+          "IssueTitle": "How Tasks get cleaned?",
+          "IssueUrl": "https://github.com/redux-saga/redux-saga/issues/2133"
+        },
+        {
+          "IssueTitle": "redux-saga function stuck at yield call",
+          "IssueUrl": "https://github.com/redux-saga/redux-saga/issues/2129"
+        },
+        {
+          "IssueTitle": "uncaught at _callee3 at _callee3   at _callee6",
+          "IssueUrl": "https://github.com/redux-saga/redux-saga/issues/2125"
+        },
+        {
+          "IssueTitle": "Take a TakeableChannel as part of take(Array) call",
+          "IssueUrl": "https://github.com/redux-saga/redux-saga/issues/2120"
+        },
+        {
+          "IssueTitle": "Typescript yield select() with root type",
+          "IssueUrl": "https://github.com/redux-saga/redux-saga/issues/2117"
+        },
+        {
+          "IssueTitle": "Handling local state update after sage completion.",
+          "IssueUrl": "https://github.com/redux-saga/redux-saga/issues/2114"
+        },
+        {
+          "IssueTitle": "renderToNodeStream Warning: Did not expect server HTML to contain a <div> in <div>.",
+          "IssueUrl": "https://github.com/redux-saga/redux-saga/issues/2112"
+        },
+        {
+          "IssueTitle": "TypeError: Object.defineProperty called on non-object",
+          "IssueUrl": "https://github.com/redux-saga/redux-saga/issues/2111"
+        }
+      ]
+    },
+    {
+      "projectName": "react-redux",
+      "projectUrl": "https://github.com/reduxjs/react-redux",
+      "issues": [
+        {
+          "IssueTitle": "TypeScript errors after installing 7.2.3 relating to @types/react-redux now being a \"dependency\"",
+          "IssueUrl": "https://github.com/reduxjs/react-redux/issues/1700"
+        },
+        {
+          "IssueTitle": "Redux-React Basic Tutorial issues",
+          "IssueUrl": "https://github.com/reduxjs/react-redux/issues/1684"
+        },
+        {
+          "IssueTitle": "Allow passing a default equality function to createSelectorHook",
+          "IssueUrl": "https://github.com/reduxjs/react-redux/issues/1656"
+        },
+        {
+          "IssueTitle": "Use Proxy-based selectors",
+          "IssueUrl": "https://github.com/reduxjs/react-redux/issues/1653"
+        },
+        {
+          "IssueTitle": "Nested connect() child components have stale props with React.Context",
+          "IssueUrl": "https://github.com/reduxjs/react-redux/issues/1642"
+        },
+        {
+          "IssueTitle": "useSelector returns stale value in parent component if child class component dispatches action updating that value during life cycle functions",
+          "IssueUrl": "https://github.com/reduxjs/react-redux/issues/1601"
+        },
+        {
+          "IssueTitle": "Child may render with new state before parent",
+          "IssueUrl": "https://github.com/reduxjs/react-redux/issues/1589"
+        },
+        {
+          "IssueTitle": "Docs: Add hooks usage guide page",
+          "IssueUrl": "https://github.com/reduxjs/react-redux/issues/1575"
+        },
+        {
+          "IssueTitle": "Docs: Rewrite tutorial to show hooks as the primary API",
+          "IssueUrl": "https://github.com/reduxjs/react-redux/issues/1574"
+        },
+        {
+          "IssueTitle": "Zombie Children across multiple react roots",
+          "IssueUrl": "https://github.com/reduxjs/react-redux/issues/1556"
+        },
+        {
+          "IssueTitle": "example of the selector used in multiple component instances",
+          "IssueUrl": "https://github.com/reduxjs/react-redux/issues/1515"
+        },
+        {
+          "IssueTitle": "Nested connect updates are not batched",
+          "IssueUrl": "https://github.com/reduxjs/react-redux/issues/1510"
+        },
+        {
+          "IssueTitle": "[Docs]: improve usage of second arg of useSelector (equality function)",
+          "IssueUrl": "https://github.com/reduxjs/react-redux/issues/1504"
+        },
+        {
+          "IssueTitle": "Investigate adding a proxy-based selector API",
+          "IssueUrl": "https://github.com/reduxjs/react-redux/issues/1502"
+        },
+        {
+          "IssueTitle": "Redux style guide not discoverable from React Redux docs",
+          "IssueUrl": "https://github.com/reduxjs/react-redux/issues/1495"
+        },
+        {
+          "IssueTitle": "Docs: Document \"alternate renderers\" entry point",
+          "IssueUrl": "https://github.com/reduxjs/react-redux/issues/1458"
+        },
+        {
+          "IssueTitle": "mapStateToProps is called when component is not due to render when a dispatch is triggered from componentDidUpdate",
+          "IssueUrl": "https://github.com/reduxjs/react-redux/issues/1397"
+        },
+        {
+          "IssueTitle": "Avoidable re-render when wrapperProps change triggers a dispatch down the tree",
+          "IssueUrl": "https://github.com/reduxjs/react-redux/issues/1354"
+        },
+        {
+          "IssueTitle": "Concurrent Mode",
+          "IssueUrl": "https://github.com/reduxjs/react-redux/issues/1351"
+        },
+        {
+          "IssueTitle": "useSelector comparator swallows errors",
+          "IssueUrl": "https://github.com/reduxjs/react-redux/issues/1310"
+        },
+        {
+          "IssueTitle": "mergeProps example will never shallowEqual",
+          "IssueUrl": "https://github.com/reduxjs/react-redux/issues/1302"
+        },
+        {
+          "IssueTitle": "setState() mutations and redux mutations are not batched into a single re-render",
+          "IssueUrl": "https://github.com/reduxjs/react-redux/issues/1298"
+        },
+        {
+          "IssueTitle": "Deprecating connectAdvanced",
+          "IssueUrl": "https://github.com/reduxjs/react-redux/issues/1236"
+        },
+        {
+          "IssueTitle": "pureFinalPropsSelectorFactory memoizes wrongly if mapStateToProps/mapDispatchToProps throws",
+          "IssueUrl": "https://github.com/reduxjs/react-redux/issues/1216"
+        },
+        {
+          "IssueTitle": "Rewrite React-Redux docs completely",
+          "IssueUrl": "https://github.com/reduxjs/react-redux/issues/1001"
+        }
+      ]
+    },
+    {
+      "projectName": "react-starter-kit",
+      "projectUrl": "https://github.com/kriasoft/react-starter-kit",
+      "issues": [
+        {
+          "IssueTitle": "Unable to add Google Analytics Tracking",
+          "IssueUrl": "https://github.com/kriasoft/react-starter-kit/issues/1925"
+        },
+        {
+          "IssueTitle": "You are missing the split code",
+          "IssueUrl": "https://github.com/kriasoft/react-starter-kit/issues/1924"
+        },
+        {
+          "IssueTitle": "Unable to Load Images in React",
+          "IssueUrl": "https://github.com/kriasoft/react-starter-kit/issues/1920"
+        },
+        {
+          "IssueTitle": "Question on routing",
+          "IssueUrl": "https://github.com/kriasoft/react-starter-kit/issues/1919"
+        },
+        {
+          "IssueTitle": "React",
+          "IssueUrl": "https://github.com/kriasoft/react-starter-kit/issues/1917"
+        },
+        {
+          "IssueTitle": "Unable to resolve path to module 'buefy'",
+          "IssueUrl": "https://github.com/kriasoft/react-starter-kit/issues/1916"
+        },
+        {
+          "IssueTitle": "Forcing a component to re-render",
+          "IssueUrl": "https://github.com/kriasoft/react-starter-kit/issues/1915"
+        },
+        {
+          "IssueTitle": "Embedding a component in an existing web application",
+          "IssueUrl": "https://github.com/kriasoft/react-starter-kit/issues/1914"
+        },
+        {
+          "IssueTitle": "Import lib in browser",
+          "IssueUrl": "https://github.com/kriasoft/react-starter-kit/issues/1903"
+        },
+        {
+          "IssueTitle": "http2/spdy support?",
+          "IssueUrl": "https://github.com/kriasoft/react-starter-kit/issues/1900"
+        },
+        {
+          "IssueTitle": "Login with user/password not working: Cannot POST /login",
+          "IssueUrl": "https://github.com/kriasoft/react-starter-kit/issues/1887"
+        },
+        {
+          "IssueTitle": "i have duplicate chunk build time",
+          "IssueUrl": "https://github.com/kriasoft/react-starter-kit/issues/1886"
+        },
+        {
+          "IssueTitle": "reactstarter.com ssl certificate is expired",
+          "IssueUrl": "https://github.com/kriasoft/react-starter-kit/issues/1883"
+        },
+        {
+          "IssueTitle": "Adopt TODO.md for task list",
+          "IssueUrl": "https://github.com/kriasoft/react-starter-kit/issues/1882"
+        },
+        {
+          "IssueTitle": "How to fix this error? - 'TypeError: action.default is not a function'",
+          "IssueUrl": "https://github.com/kriasoft/react-starter-kit/issues/1878"
+        },
+        {
+          "IssueTitle": "modify className and new class dosen't update in browser",
+          "IssueUrl": "https://github.com/kriasoft/react-starter-kit/issues/1876"
+        },
+        {
+          "IssueTitle": "How to upload file ?",
+          "IssueUrl": "https://github.com/kriasoft/react-starter-kit/issues/1875"
+        },
+        {
+          "IssueTitle": "Wildcard instead of GraphQL?",
+          "IssueUrl": "https://github.com/kriasoft/react-starter-kit/issues/1873"
+        },
+        {
+          "IssueTitle": "Merge master in feature/react-intl",
+          "IssueUrl": "https://github.com/kriasoft/react-starter-kit/issues/1871"
+        },
+        {
+          "IssueTitle": "Authentication router",
+          "IssueUrl": "https://github.com/kriasoft/react-starter-kit/issues/1868"
+        },
+        {
+          "IssueTitle": "Material UI wont add styles on refreshing",
+          "IssueUrl": "https://github.com/kriasoft/react-starter-kit/issues/1854"
+        },
+        {
+          "IssueTitle": "Can't display mapped posts from an API inside react component",
+          "IssueUrl": "https://github.com/kriasoft/react-starter-kit/issues/1750"
+        },
+        {
+          "IssueTitle": "Any advice for build/bundle speed?",
+          "IssueUrl": "https://github.com/kriasoft/react-starter-kit/issues/1744"
+        },
+        {
+          "IssueTitle": "ReactJS code compiled successfully but the output is not displayed on browser",
+          "IssueUrl": "https://github.com/kriasoft/react-starter-kit/issues/1741"
+        },
+        {
+          "IssueTitle": "Cannot read property 'title' of null",
+          "IssueUrl": "https://github.com/kriasoft/react-starter-kit/issues/1740"
+        }
+      ]
+    },
+    {
+      "projectName": "react-redux-links",
+      "projectUrl": "https://github.com/markerikson/react-redux-links",
+      "issues": [
+        {
+          "IssueTitle": "Potential Links Dump: 2020-08-15",
+          "IssueUrl": "https://github.com/markerikson/react-redux-links/issues/138"
+        },
+        {
+          "IssueTitle": "Dead link in react-implementations.md",
+          "IssueUrl": "https://github.com/markerikson/react-redux-links/issues/136"
+        },
+        {
+          "IssueTitle": "redux-side-effects.md link down \"Pure Functionality and Side Effects with Redux\"",
+          "IssueUrl": "https://github.com/markerikson/react-redux-links/issues/135"
+        },
+        {
+          "IssueTitle": "Potential Links Dump: 2018-11-18",
+          "IssueUrl": "https://github.com/markerikson/react-redux-links/issues/106"
+        },
+        {
+          "IssueTitle": "Add date and react version to links",
+          "IssueUrl": "https://github.com/markerikson/react-redux-links/issues/101"
+        },
+        {
+          "IssueTitle": "Request for Additional Links List Maintainers",
+          "IssueUrl": "https://github.com/markerikson/react-redux-links/issues/99"
+        },
+        {
+          "IssueTitle": "Potential Links Dump - 2018-06-29",
+          "IssueUrl": "https://github.com/markerikson/react-redux-links/issues/98"
+        },
+        {
+          "IssueTitle": "Specify the license",
+          "IssueUrl": "https://github.com/markerikson/react-redux-links/issues/87"
+        },
+        {
+          "IssueTitle": "Considering adding category of \"Frameworks\"",
+          "IssueUrl": "https://github.com/markerikson/react-redux-links/issues/85"
+        },
+        {
+          "IssueTitle": "Highlight \"top articles\"",
+          "IssueUrl": "https://github.com/markerikson/react-redux-links/issues/75"
+        },
+        {
+          "IssueTitle": "Improve article list metadata",
+          "IssueUrl": "https://github.com/markerikson/react-redux-links/issues/70"
+        },
+        {
+          "IssueTitle": "Validate Links",
+          "IssueUrl": "https://github.com/markerikson/react-redux-links/issues/53"
+        },
+        {
+          "IssueTitle": "Angular to React/Redux Link",
+          "IssueUrl": "https://github.com/markerikson/react-redux-links/issues/51"
+        },
+        {
+          "IssueTitle": "webpack 2",
+          "IssueUrl": "https://github.com/markerikson/react-redux-links/issues/48"
+        }
+      ]
+    },
+    {
+      "projectName": "normalizr",
+      "projectUrl": "https://github.com/paularmstrong/normalizr",
+      "issues": [
+        {
+          "IssueTitle": "Feature Request: processStrategy for schema.Array to pre-process array collections",
+          "IssueUrl": "https://github.com/paularmstrong/normalizr/issues/460"
+        },
+        {
+          "IssueTitle": "Support for creating map",
+          "IssueUrl": "https://github.com/paularmstrong/normalizr/issues/457"
+        },
+        {
+          "IssueTitle": "fallbackStrategy key type not always string",
+          "IssueUrl": "https://github.com/paularmstrong/normalizr/issues/449"
+        },
+        {
+          "IssueTitle": "Feature request: Add an option to generate missing ids",
+          "IssueUrl": "https://github.com/paularmstrong/normalizr/issues/448"
+        },
+        {
+          "IssueTitle": "Use Function syntax to allow proper Typescript support",
+          "IssueUrl": "https://github.com/paularmstrong/normalizr/issues/447"
+        },
+        {
+          "IssueTitle": "Polymorphic schema clash with mongodb",
+          "IssueUrl": "https://github.com/paularmstrong/normalizr/issues/445"
+        },
+        {
+          "IssueTitle": "doc: TS types for schema should represent relationships as id type",
+          "IssueUrl": "https://github.com/paularmstrong/normalizr/issues/442"
+        },
+        {
+          "IssueTitle": "Change in denormalize() behavior from 3.2.3 => 3.2.4 when passing objects as input",
+          "IssueUrl": "https://github.com/paularmstrong/normalizr/issues/430"
+        },
+        {
+          "IssueTitle": "Project in examples/redux does not run",
+          "IssueUrl": "https://github.com/paularmstrong/normalizr/issues/427"
+        },
+        {
+          "IssueTitle": "On Array Schemas, is getting index by id supported?",
+          "IssueUrl": "https://github.com/paularmstrong/normalizr/issues/424"
+        },
+        {
+          "IssueTitle": "processStrategy for Objects",
+          "IssueUrl": "https://github.com/paularmstrong/normalizr/issues/417"
+        },
+        {
+          "IssueTitle": "Suggestion: rename id in Polymorphic",
+          "IssueUrl": "https://github.com/paularmstrong/normalizr/issues/414"
+        },
+        {
+          "IssueTitle": "An in-range update of eslint-plugin-jest is breaking the build 🚨",
+          "IssueUrl": "https://github.com/paularmstrong/normalizr/issues/400"
+        },
+        {
+          "IssueTitle": "Incorrect denormalization of partially normalized entities",
+          "IssueUrl": "https://github.com/paularmstrong/normalizr/issues/394"
+        },
+        {
+          "IssueTitle": "Denormalization does not work when using schemas from another library instance",
+          "IssueUrl": "https://github.com/paularmstrong/normalizr/issues/393"
+        },
+        {
+          "IssueTitle": "Performance problem in v3.4.0 [needs repro]",
+          "IssueUrl": "https://github.com/paularmstrong/normalizr/issues/383"
+        },
+        {
+          "IssueTitle": "Map the implicit many to one and the one to many relations",
+          "IssueUrl": "https://github.com/paularmstrong/normalizr/issues/354"
+        },
+        {
+          "IssueTitle": "Null/Undefined valued nested properties of EntitySchemas are always omitted from normalized output",
+          "IssueUrl": "https://github.com/paularmstrong/normalizr/issues/332"
+        },
+        {
+          "IssueTitle": "Better Typescript integration?",
+          "IssueUrl": "https://github.com/paularmstrong/normalizr/issues/326"
+        },
+        {
+          "IssueTitle": "Feature request: flowtype the library",
+          "IssueUrl": "https://github.com/paularmstrong/normalizr/issues/309"
+        }
+      ]
+    },
+    {
+      "projectName": "immer",
+      "projectUrl": "https://github.com/immerjs/immer",
+      "issues": [
+        {
+          "IssueTitle": "Compile error for TypeScript projects that transpile to ES5",
+          "IssueUrl": "https://github.com/immerjs/immer/issues/718"
+        },
+        {
+          "IssueTitle": "[question] Nested produce calls are not working as expected.",
+          "IssueUrl": "https://github.com/immerjs/immer/issues/716"
+        },
+        {
+          "IssueTitle": "TS errors for draft objects with properties that are indexed using well-known symbols",
+          "IssueUrl": "https://github.com/immerjs/immer/issues/710"
+        },
+        {
+          "IssueTitle": "Typed Arrays support",
+          "IssueUrl": "https://github.com/immerjs/immer/issues/696"
+        },
+        {
+          "IssueTitle": "Idea: forbid grabbing non draftables in strict mode",
+          "IssueUrl": "https://github.com/immerjs/immer/issues/686"
+        },
+        {
+          "IssueTitle": "🎉🎉 Who is using immer? 🎉🎉",
+          "IssueUrl": "https://github.com/immerjs/immer/issues/284"
+        }
+      ]
+    }
+  ],
+  "JSON": [
+    {
+      "projectName": "httpie",
+      "projectUrl": "https://github.com/httpie/httpie",
+      "issues": [
+        {
+          "IssueTitle": "Support for Content-Type on each part of a multi-part form",
+          "IssueUrl": "https://github.com/httpie/httpie/issues/1050"
+        },
+        {
+          "IssueTitle": "Feature request: load whole request from a file",
+          "IssueUrl": "https://github.com/httpie/httpie/issues/1047"
+        },
+        {
+          "IssueTitle": "shadow file name 'ssl.py' may cause run time error when tring to run the program from source code",
+          "IssueUrl": "https://github.com/httpie/httpie/issues/1044"
+        },
+        {
+          "IssueTitle": "Following Link-Header / MultiPage-Requests (RFC5988)",
+          "IssueUrl": "https://github.com/httpie/httpie/issues/1036"
+        },
+        {
+          "IssueTitle": "Host header output incorrect when explicitly specifying the default port",
+          "IssueUrl": "https://github.com/httpie/httpie/issues/1034"
+        },
+        {
+          "IssueTitle": "Ideas to improve header visualization",
+          "IssueUrl": "https://github.com/httpie/httpie/issues/1033"
+        },
+        {
+          "IssueTitle": "Displaying error for incomplete responses",
+          "IssueUrl": "https://github.com/httpie/httpie/issues/1030"
+        },
+        {
+          "IssueTitle": "System for meta information output options (timing, SSL info, …)",
+          "IssueUrl": "https://github.com/httpie/httpie/issues/1023"
+        },
+        {
+          "IssueTitle": "Better handling of responses without correct content-type charset",
+          "IssueUrl": "https://github.com/httpie/httpie/issues/1022"
+        },
+        {
+          "IssueTitle": "Create an option that allows --download to output progress somewhere that isn't stderr",
+          "IssueUrl": "https://github.com/httpie/httpie/issues/1015"
+        },
+        {
+          "IssueTitle": "verbose output should show SSL/TLS details",
+          "IssueUrl": "https://github.com/httpie/httpie/issues/1011"
+        },
+        {
+          "IssueTitle": "Feature request: output full HTTP request and response in a JSON structure",
+          "IssueUrl": "https://github.com/httpie/httpie/issues/1007"
+        },
+        {
+          "IssueTitle": "Doesn't correctly handle storing cookies in session after redirect to different domain",
+          "IssueUrl": "https://github.com/httpie/httpie/issues/1004"
+        },
+        {
+          "IssueTitle": "on ubuntu apt install httpie install v1.0.3",
+          "IssueUrl": "https://github.com/httpie/httpie/issues/1003"
+        },
+        {
+          "IssueTitle": "https command not found after fresh installation",
+          "IssueUrl": "https://github.com/httpie/httpie/issues/1001"
+        },
+        {
+          "IssueTitle": "send request which is saved in a text file",
+          "IssueUrl": "https://github.com/httpie/httpie/issues/999"
+        },
+        {
+          "IssueTitle": "ValueError: Elements in iterable body must be bytestrings",
+          "IssueUrl": "https://github.com/httpie/httpie/issues/995"
+        },
+        {
+          "IssueTitle": "is PySocks a dependancy ?",
+          "IssueUrl": "https://github.com/httpie/httpie/issues/990"
+        },
+        {
+          "IssueTitle": "Feature request: support \"http(s) request\" from raw requests file",
+          "IssueUrl": "https://github.com/httpie/httpie/issues/989"
+        },
+        {
+          "IssueTitle": "Support some way to specify an header that shouldn't be persisted to the session",
+          "IssueUrl": "https://github.com/httpie/httpie/issues/975"
+        },
+        {
+          "IssueTitle": "Support a flag/option to delete a named session",
+          "IssueUrl": "https://github.com/httpie/httpie/issues/974"
+        },
+        {
+          "IssueTitle": "Incomplete responses do not cause an error",
+          "IssueUrl": "https://github.com/httpie/httpie/issues/965"
+        },
+        {
+          "IssueTitle": "Support header values read from file ?",
+          "IssueUrl": "https://github.com/httpie/httpie/issues/964"
+        },
+        {
+          "IssueTitle": "Change insecure SSL/TLS to deprecated",
+          "IssueUrl": "https://github.com/httpie/httpie/issues/962"
+        },
+        {
+          "IssueTitle": "Support for client side certificate/key password",
+          "IssueUrl": "https://github.com/httpie/httpie/issues/946"
+        }
+      ]
+    },
+    {
+      "projectName": "prettier",
+      "projectUrl": "https://github.com/prettier/prettier",
+      "issues": [
+        {
+          "IssueTitle": "TypeScript 4.3",
+          "IssueUrl": "https://github.com/prettier/prettier/issues/10642"
+        },
+        {
+          "IssueTitle": "Poor readability in braceless arrow IIFE endings",
+          "IssueUrl": "https://github.com/prettier/prettier/issues/10641"
+        },
+        {
+          "IssueTitle": "styled-components css attribute quotes are inconsistent",
+          "IssueUrl": "https://github.com/prettier/prettier/issues/10638"
+        },
+        {
+          "IssueTitle": "as in array destructuring is printed wrong (babel-ts only)",
+          "IssueUrl": "https://github.com/prettier/prettier/issues/10635"
+        },
+        {
+          "IssueTitle": "inconsistent wrapping in long chained property calls",
+          "IssueUrl": "https://github.com/prettier/prettier/issues/10616"
+        },
+        {
+          "IssueTitle": "Re-enable error recovery for some reserved words used as identifiers",
+          "IssueUrl": "https://github.com/prettier/prettier/issues/10603"
+        },
+        {
+          "IssueTitle": "Errors for embedded languages on Playground are confusing",
+          "IssueUrl": "https://github.com/prettier/prettier/issues/10602"
+        },
+        {
+          "IssueTitle": "Comment \"x\" was not printed. Please report this error!",
+          "IssueUrl": "https://github.com/prettier/prettier/issues/10592"
+        },
+        {
+          "IssueTitle": "Cannot inline as <MappedType> object",
+          "IssueUrl": "https://github.com/prettier/prettier/issues/10571"
+        },
+        {
+          "IssueTitle": "getSupportInfo() does not return file extensions for custom registered languages",
+          "IssueUrl": "https://github.com/prettier/prettier/issues/10561"
+        },
+        {
+          "IssueTitle": "Release 2.3 checklist",
+          "IssueUrl": "https://github.com/prettier/prettier/issues/10537"
+        },
+        {
+          "IssueTitle": "YAML: a comment after an anchor doesn't stay on a separate line",
+          "IssueUrl": "https://github.com/prettier/prettier/issues/10518"
+        },
+        {
+          "IssueTitle": "parse error on mdx code block in markdown",
+          "IssueUrl": "https://github.com/prettier/prettier/issues/10507"
+        },
+        {
+          "IssueTitle": "Bad formatting of a long list of arguments in :is(), :not()",
+          "IssueUrl": "https://github.com/prettier/prettier/issues/10486"
+        },
+        {
+          "IssueTitle": "Glimmer: Double quotes removed even if single quotes inside",
+          "IssueUrl": "https://github.com/prettier/prettier/issues/10419"
+        },
+        {
+          "IssueTitle": "Broken ThrowExpression case",
+          "IssueUrl": "https://github.com/prettier/prettier/issues/10411"
+        },
+        {
+          "IssueTitle": "Proposal: Add __babel-estree parser",
+          "IssueUrl": "https://github.com/prettier/prettier/issues/10406"
+        },
+        {
+          "IssueTitle": "[Feature Request] add warning about file ignored and cli flag to enforce formatting",
+          "IssueUrl": "https://github.com/prettier/prettier/issues/10395"
+        },
+        {
+          "IssueTitle": "Prefer breaking after = in type aliases if RHS is a conditional type chain",
+          "IssueUrl": "https://github.com/prettier/prettier/issues/10325"
+        },
+        {
+          "IssueTitle": "Update the docs on the website to reflect the Husky 6.0 for pre-commit hooks",
+          "IssueUrl": "https://github.com/prettier/prettier/issues/10311"
+        },
+        {
+          "IssueTitle": "scss mixin breaks on format if name is \"selector\"",
+          "IssueUrl": "https://github.com/prettier/prettier/issues/10291"
+        },
+        {
+          "IssueTitle": "[typescript] doc comments on function type signatures get moved to invalid places",
+          "IssueUrl": "https://github.com/prettier/prettier/issues/10260"
+        },
+        {
+          "IssueTitle": "why the if comment is line breaked?",
+          "IssueUrl": "https://github.com/prettier/prettier/issues/10250"
+        },
+        {
+          "IssueTitle": "Refactor: Print ChainExpression directly",
+          "IssueUrl": "https://github.com/prettier/prettier/issues/10244"
+        },
+        {
+          "IssueTitle": "Glimmer parser destructively re-orders component args and comments",
+          "IssueUrl": "https://github.com/prettier/prettier/issues/10203"
+        }
+      ]
+    },
+    {
+      "projectName": "chinese-poetry",
+      "projectUrl": "https://github.com/chinese-poetry/chinese-poetry",
+      "issues": [
+        {
+          "IssueTitle": "Dataset  problem (rank/poet)",
+          "IssueUrl": "https://github.com/chinese-poetry/chinese-poetry/issues/250"
+        },
+        {
+          "IssueTitle": "可以分享一下这些获取这些诗词数据的网站来源吗？",
+          "IssueUrl": "https://github.com/chinese-poetry/chinese-poetry/issues/249"
+        },
+        {
+          "IssueTitle": "建议将照片换成 Unsplash 或 Stocksnap 的……",
+          "IssueUrl": "https://github.com/chinese-poetry/chinese-poetry/issues/247"
+        },
+        {
+          "IssueTitle": "库中的诗词具有时间先后顺序么？",
+          "IssueUrl": "https://github.com/chinese-poetry/chinese-poetry/issues/246"
+        },
+        {
+          "IssueTitle": "【无服务器】CloudFlareWorker脚本，调用并支持简繁翻译、图片调用[暂时仅支持全唐诗 & 全宋诗，其它可另增加]",
+          "IssueUrl": "https://github.com/chinese-poetry/chinese-poetry/issues/245"
+        },
+        {
+          "IssueTitle": "【小程序】花了一个月写了一个可以查看名胜古迹诗词的有点文艺的诗词小程序，欢迎体验",
+          "IssueUrl": "https://github.com/chinese-poetry/chinese-poetry/issues/244"
+        },
+        {
+          "IssueTitle": "作者可否考虑以繁体为原始文本",
+          "IssueUrl": "https://github.com/chinese-poetry/chinese-poetry/issues/242"
+        },
+        {
+          "IssueTitle": "元曲中字段内容错误yuanqu.json",
+          "IssueUrl": "https://github.com/chinese-poetry/chinese-poetry/issues/234"
+        },
+        {
+          "IssueTitle": "新增現代詩集",
+          "IssueUrl": "https://github.com/chinese-poetry/chinese-poetry/issues/230"
+        },
+        {
+          "IssueTitle": "一个新数据库:道教经典",
+          "IssueUrl": "https://github.com/chinese-poetry/chinese-poetry/issues/223"
+        },
+        {
+          "IssueTitle": "想问一下宋词中出现了一些□符号是什么原因？",
+          "IssueUrl": "https://github.com/chinese-poetry/chinese-poetry/issues/221"
+        },
+        {
+          "IssueTitle": "是否可以考虑一下二十四史，做成一个国学大仓库？",
+          "IssueUrl": "https://github.com/chinese-poetry/chinese-poetry/issues/219"
+        },
+        {
+          "IssueTitle": "案例展示：基于机器学习的安卓端离线写诗应用 AiPoet",
+          "IssueUrl": "https://github.com/chinese-poetry/chinese-poetry/issues/216"
+        },
+        {
+          "IssueTitle": "yuanqu中关于冯子振的曲格式错误",
+          "IssueUrl": "https://github.com/chinese-poetry/chinese-poetry/issues/213"
+        },
+        {
+          "IssueTitle": "这里下载太慢，没法用，转到国内csdn一份，自取",
+          "IssueUrl": "https://github.com/chinese-poetry/chinese-poetry/issues/209"
+        },
+        {
+          "IssueTitle": "下载失败",
+          "IssueUrl": "https://github.com/chinese-poetry/chinese-poetry/issues/205"
+        },
+        {
+          "IssueTitle": "唐宋诗、宋词、花间集、诗经、南唐的错误字符（附上数据清洗和加载代码）",
+          "IssueUrl": "https://github.com/chinese-poetry/chinese-poetry/issues/204"
+        },
+        {
+          "IssueTitle": "写了个轮子，php导出为sql文件、转换为简体、导入Mysql、ElasticSearch",
+          "IssueUrl": "https://github.com/chinese-poetry/chinese-poetry/issues/203"
+        },
+        {
+          "IssueTitle": "强烈建议在词和作者的内容上，加上UUID，方便汇总和纰漏修复",
+          "IssueUrl": "https://github.com/chinese-poetry/chinese-poetry/issues/202"
+        },
+        {
+          "IssueTitle": "能否将该站点接入CloudFlare？",
+          "IssueUrl": "https://github.com/chinese-poetry/chinese-poetry/issues/192"
+        },
+        {
+          "IssueTitle": "能否考虑做镜像站点",
+          "IssueUrl": "https://github.com/chinese-poetry/chinese-poetry/issues/190"
+        },
+        {
+          "IssueTitle": "lunyun文本质量太差了，建议先删除",
+          "IssueUrl": "https://github.com/chinese-poetry/chinese-poetry/issues/187"
+        },
+        {
+          "IssueTitle": "English?",
+          "IssueUrl": "https://github.com/chinese-poetry/chinese-poetry/issues/174"
+        },
+        {
+          "IssueTitle": "要起到传承的作用理应加上注释，典故等",
+          "IssueUrl": "https://github.com/chinese-poetry/chinese-poetry/issues/171"
+        },
+        {
+          "IssueTitle": "关于目录结构和sqlite的一些建议",
+          "IssueUrl": "https://github.com/chinese-poetry/chinese-poetry/issues/170"
+        }
+      ]
+    },
+    {
+      "projectName": "iptv",
+      "projectUrl": "https://github.com/iptv-org/iptv",
+      "issues": [
+        {
+          "IssueTitle": "link to be tested before added",
+          "IssueUrl": "https://github.com/iptv-org/iptv/issues/2325"
+        },
+        {
+          "IssueTitle": "Remove:ALL STREAMS THAT you STEAL FROM IPTV-Free/Countries Repo !!!",
+          "IssueUrl": "https://github.com/iptv-org/iptv/issues/2317"
+        },
+        {
+          "IssueTitle": "Add: Win Sports+",
+          "IssueUrl": "https://github.com/iptv-org/iptv/issues/2301"
+        },
+        {
+          "IssueTitle": "South African Channel Requests",
+          "IssueUrl": "https://github.com/iptv-org/iptv/issues/2258"
+        },
+        {
+          "IssueTitle": "Add: СТБ",
+          "IssueUrl": "https://github.com/iptv-org/iptv/issues/2254"
+        },
+        {
+          "IssueTitle": "Add: Azam sports 2",
+          "IssueUrl": "https://github.com/iptv-org/iptv/issues/2229"
+        },
+        {
+          "IssueTitle": "Propose: Clarify Categories & Possibly Change or Add Categories",
+          "IssueUrl": "https://github.com/iptv-org/iptv/issues/2224"
+        },
+        {
+          "IssueTitle": "Swiss Channel Requests",
+          "IssueUrl": "https://github.com/iptv-org/iptv/issues/2222"
+        },
+        {
+          "IssueTitle": "Looking for Polish EPG list for IPTV please",
+          "IssueUrl": "https://github.com/iptv-org/iptv/issues/2220"
+        },
+        {
+          "IssueTitle": "Mali Channel Request",
+          "IssueUrl": "https://github.com/iptv-org/iptv/issues/2190"
+        },
+        {
+          "IssueTitle": "Italian Channel Requests",
+          "IssueUrl": "https://github.com/iptv-org/iptv/issues/2173"
+        },
+        {
+          "IssueTitle": "Add: TV Zimbo",
+          "IssueUrl": "https://github.com/iptv-org/iptv/issues/2101"
+        },
+        {
+          "IssueTitle": "Add: Al Jadeed",
+          "IssueUrl": "https://github.com/iptv-org/iptv/issues/2097"
+        },
+        {
+          "IssueTitle": "Hong Kong Channel Requests",
+          "IssueUrl": "https://github.com/iptv-org/iptv/issues/1992"
+        },
+        {
+          "IssueTitle": "Taiwanese Channel Requests",
+          "IssueUrl": "https://github.com/iptv-org/iptv/issues/1991"
+        },
+        {
+          "IssueTitle": "Danish Channel Requests",
+          "IssueUrl": "https://github.com/iptv-org/iptv/issues/1990"
+        },
+        {
+          "IssueTitle": "Czech Channel Requests",
+          "IssueUrl": "https://github.com/iptv-org/iptv/issues/1988"
+        },
+        {
+          "IssueTitle": "Antigua and Barbuda Channel Requests",
+          "IssueUrl": "https://github.com/iptv-org/iptv/issues/1987"
+        },
+        {
+          "IssueTitle": "Turkish Channel Requests",
+          "IssueUrl": "https://github.com/iptv-org/iptv/issues/1986"
+        },
+        {
+          "IssueTitle": "Singapore Channel Requests",
+          "IssueUrl": "https://github.com/iptv-org/iptv/issues/1983"
+        },
+        {
+          "IssueTitle": "Malaysian Channel Requests",
+          "IssueUrl": "https://github.com/iptv-org/iptv/issues/1982"
+        },
+        {
+          "IssueTitle": "Bangladeshi Channel Requests",
+          "IssueUrl": "https://github.com/iptv-org/iptv/issues/1980"
+        },
+        {
+          "IssueTitle": "Cuban Channel Requests",
+          "IssueUrl": "https://github.com/iptv-org/iptv/issues/1979"
+        },
+        {
+          "IssueTitle": "Sudanese Channel Requests",
+          "IssueUrl": "https://github.com/iptv-org/iptv/issues/1977"
+        },
+        {
+          "IssueTitle": "Lithuanian Channel Requests",
+          "IssueUrl": "https://github.com/iptv-org/iptv/issues/1974"
+        }
+      ]
+    },
+    {
+      "projectName": "fastapi",
+      "projectUrl": "https://github.com/tiangolo/fastapi",
+      "issues": [
+        {
+          "IssueTitle": "customized exception body in openapi schema",
+          "IssueUrl": "https://github.com/tiangolo/fastapi/issues/3034"
+        },
+        {
+          "IssueTitle": "Dynamically generating docstring for use with openapi docs",
+          "IssueUrl": "https://github.com/tiangolo/fastapi/issues/3029"
+        },
+        {
+          "IssueTitle": "How to add a header field to the request in a middleware?",
+          "IssueUrl": "https://github.com/tiangolo/fastapi/issues/3027"
+        },
+        {
+          "IssueTitle": "[QUESTION]  - using Depends() to mock function inside endpoint",
+          "IssueUrl": "https://github.com/tiangolo/fastapi/issues/3025"
+        },
+        {
+          "IssueTitle": "Should Feed Escape work in Pydantic Models",
+          "IssueUrl": "https://github.com/tiangolo/fastapi/issues/3024"
+        },
+        {
+          "IssueTitle": "[BUG] Double validation pydantic model when used response_model",
+          "IssueUrl": "https://github.com/tiangolo/fastapi/issues/3021"
+        },
+        {
+          "IssueTitle": "Programmatic run of uvicorn.run forks many processes causes k8s pod restarts",
+          "IssueUrl": "https://github.com/tiangolo/fastapi/issues/3019"
+        },
+        {
+          "IssueTitle": "BaseHTTPMiddleware is being called many times",
+          "IssueUrl": "https://github.com/tiangolo/fastapi/issues/3018"
+        },
+        {
+          "IssueTitle": "Deduplication of arrays of objects broken for data OUT",
+          "IssueUrl": "https://github.com/tiangolo/fastapi/issues/3017"
+        },
+        {
+          "IssueTitle": "How to integrate casbin watcher in fastapi",
+          "IssueUrl": "https://github.com/tiangolo/fastapi/issues/3015"
+        },
+        {
+          "IssueTitle": "How to implement with encoder/broadcaster for Websocket pub/sub?",
+          "IssueUrl": "https://github.com/tiangolo/fastapi/issues/3009"
+        },
+        {
+          "IssueTitle": "WebSocket disconnected state is not propagated to the application code (proper closures, ping timeouts)",
+          "IssueUrl": "https://github.com/tiangolo/fastapi/issues/3008"
+        },
+        {
+          "IssueTitle": "[Question] Flask to FastAPI conversion Kafka example for Kubernetes",
+          "IssueUrl": "https://github.com/tiangolo/fastapi/issues/3005"
+        },
+        {
+          "IssueTitle": "Creating a Cookie based authentication",
+          "IssueUrl": "https://github.com/tiangolo/fastapi/issues/3004"
+        },
+        {
+          "IssueTitle": "Flask mounted with WSGIMiddleware gets request context mixed",
+          "IssueUrl": "https://github.com/tiangolo/fastapi/issues/2999"
+        },
+        {
+          "IssueTitle": "Query params as Enums are not working fine with swagger docs??",
+          "IssueUrl": "https://github.com/tiangolo/fastapi/issues/2998"
+        },
+        {
+          "IssueTitle": "Instantiating a dataclass directly containing Query parameters",
+          "IssueUrl": "https://github.com/tiangolo/fastapi/issues/2997"
+        },
+        {
+          "IssueTitle": "Please support latest SQLAlchemy or pin it",
+          "IssueUrl": "https://github.com/tiangolo/fastapi/issues/2996"
+        },
+        {
+          "IssueTitle": "/swagger might open other json",
+          "IssueUrl": "https://github.com/tiangolo/fastapi/issues/2994"
+        },
+        {
+          "IssueTitle": "How can i have Client_id being returned from OAuth2PasswordRequestForm",
+          "IssueUrl": "https://github.com/tiangolo/fastapi/issues/2990"
+        },
+        {
+          "IssueTitle": "Constr param: Is there a way to preserve the regex annotation?",
+          "IssueUrl": "https://github.com/tiangolo/fastapi/issues/2989"
+        },
+        {
+          "IssueTitle": "Live receive and send audio and video",
+          "IssueUrl": "https://github.com/tiangolo/fastapi/issues/2988"
+        },
+        {
+          "IssueTitle": "i want APIRouter add a \"name\" attribute",
+          "IssueUrl": "https://github.com/tiangolo/fastapi/issues/2987"
+        },
+        {
+          "IssueTitle": "Opening a websocket seems to pause existing Background Task",
+          "IssueUrl": "https://github.com/tiangolo/fastapi/issues/2984"
+        },
+        {
+          "IssueTitle": "emmmmm...Why?",
+          "IssueUrl": "https://github.com/tiangolo/fastapi/issues/2983"
+        }
+      ]
+    },
+    {
+      "projectName": "sheetjs",
+      "projectUrl": "https://github.com/SheetJS/sheetjs",
+      "issues": [
+        {
+          "IssueTitle": "Is it possible to update an existing .xlsx file using sheetjs?",
+          "IssueUrl": "https://github.com/SheetJS/sheetjs/issues/2266"
+        },
+        {
+          "IssueTitle": "XLSX.read(data,{ type: 'array'}) ，data太大IE浏览器卡死，如何解决？",
+          "IssueUrl": "https://github.com/SheetJS/sheetjs/issues/2263"
+        },
+        {
+          "IssueTitle": "Fill static excel in browser",
+          "IssueUrl": "https://github.com/SheetJS/sheetjs/issues/2262"
+        },
+        {
+          "IssueTitle": "[Browser - Angular 10] Main Thread Blocked / UI Frozen due to aoa_to_sheet method",
+          "IssueUrl": "https://github.com/SheetJS/sheetjs/issues/2261"
+        },
+        {
+          "IssueTitle": "Help with command line node tool in bin directory",
+          "IssueUrl": "https://github.com/SheetJS/sheetjs/issues/2260"
+        },
+        {
+          "IssueTitle": "sheet_to_json (break after empty row?)",
+          "IssueUrl": "https://github.com/SheetJS/sheetjs/issues/2259"
+        },
+        {
+          "IssueTitle": "SyntaxError: Invalid regular expression: /+$/: Nothing to repeat",
+          "IssueUrl": "https://github.com/SheetJS/sheetjs/issues/2258"
+        },
+        {
+          "IssueTitle": "Set different ThemeColorScheme when creating an xlsx file",
+          "IssueUrl": "https://github.com/SheetJS/sheetjs/issues/2257"
+        },
+        {
+          "IssueTitle": "sheet_to_json treats money as number instead of string. Understandable, but how would I get it to keep the $ prefix?",
+          "IssueUrl": "https://github.com/SheetJS/sheetjs/issues/2254"
+        },
+        {
+          "IssueTitle": "It's not get when the first row or starting some rows are empty than  we not get the empty rows",
+          "IssueUrl": "https://github.com/SheetJS/sheetjs/issues/2253"
+        },
+        {
+          "IssueTitle": "parse_ws_xml_data - parse row error",
+          "IssueUrl": "https://github.com/SheetJS/sheetjs/issues/2251"
+        },
+        {
+          "IssueTitle": "How to skip first row(s) in table_to_sheet or table_to_book?",
+          "IssueUrl": "https://github.com/SheetJS/sheetjs/issues/2250"
+        },
+        {
+          "IssueTitle": "undefined issue",
+          "IssueUrl": "https://github.com/SheetJS/sheetjs/issues/2249"
+        },
+        {
+          "IssueTitle": "Sheet protect and background color cells",
+          "IssueUrl": "https://github.com/SheetJS/sheetjs/issues/2247"
+        },
+        {
+          "IssueTitle": "XLSX Generated file content is in raw form",
+          "IssueUrl": "https://github.com/SheetJS/sheetjs/issues/2246"
+        },
+        {
+          "IssueTitle": "Encoding problem in sheet_to_html with roubles",
+          "IssueUrl": "https://github.com/SheetJS/sheetjs/issues/2245"
+        },
+        {
+          "IssueTitle": "worksheet['!rows'] - row is undefined",
+          "IssueUrl": "https://github.com/SheetJS/sheetjs/issues/2244"
+        },
+        {
+          "IssueTitle": "Undefined when WriteFile",
+          "IssueUrl": "https://github.com/SheetJS/sheetjs/issues/2243"
+        },
+        {
+          "IssueTitle": "Read data from excel text box",
+          "IssueUrl": "https://github.com/SheetJS/sheetjs/issues/2241"
+        },
+        {
+          "IssueTitle": "Reading CSV exported from Google Sheets misreads accented characters",
+          "IssueUrl": "https://github.com/SheetJS/sheetjs/issues/2240"
+        },
+        {
+          "IssueTitle": "Csv with semicolon-comma wrong parsing",
+          "IssueUrl": "https://github.com/SheetJS/sheetjs/issues/2239"
+        },
+        {
+          "IssueTitle": "Error Message using requirejs",
+          "IssueUrl": "https://github.com/SheetJS/sheetjs/issues/2238"
+        },
+        {
+          "IssueTitle": "Read date brazilian format",
+          "IssueUrl": "https://github.com/SheetJS/sheetjs/issues/2237"
+        },
+        {
+          "IssueTitle": "Error Reading Classified Workbook: ECMA-376 Encrypted file missing /EncryptionInfo",
+          "IssueUrl": "https://github.com/SheetJS/sheetjs/issues/2234"
+        },
+        {
+          "IssueTitle": "JSON to Sheet create many excel files",
+          "IssueUrl": "https://github.com/SheetJS/sheetjs/issues/2233"
+        }
+      ]
+    },
+    {
+      "projectName": "json",
+      "projectUrl": "https://github.com/nlohmann/json",
+      "issues": [
+        {
+          "IssueTitle": ".dump() not allowing compact form",
+          "IssueUrl": "https://github.com/nlohmann/json/issues/2678"
+        },
+        {
+          "IssueTitle": "Compiler warnings with NVCC 11.2",
+          "IssueUrl": "https://github.com/nlohmann/json/issues/2676"
+        },
+        {
+          "IssueTitle": "error: no matching function for call to ‘nlohmann::basic_json<>::value(int, std::set<int>&)’",
+          "IssueUrl": "https://github.com/nlohmann/json/issues/2671"
+        },
+        {
+          "IssueTitle": "std::pair wrong serialization",
+          "IssueUrl": "https://github.com/nlohmann/json/issues/2655"
+        },
+        {
+          "IssueTitle": "2 backslash cause problem",
+          "IssueUrl": "https://github.com/nlohmann/json/issues/2652"
+        },
+        {
+          "IssueTitle": "No support for using an external/system copy of Hedley",
+          "IssueUrl": "https://github.com/nlohmann/json/issues/2651"
+        },
+        {
+          "IssueTitle": "String type change breaks C++ type matching",
+          "IssueUrl": "https://github.com/nlohmann/json/issues/2649"
+        },
+        {
+          "IssueTitle": "Preserve decimal formatting",
+          "IssueUrl": "https://github.com/nlohmann/json/issues/2618"
+        },
+        {
+          "IssueTitle": "corruption when parse from string",
+          "IssueUrl": "https://github.com/nlohmann/json/issues/2603"
+        },
+        {
+          "IssueTitle": "Unhandled exception in test-cbor.exe Stack overflow when debugging project with Visual Studio 2019 16.7.7 compiled with c++17 or c++latest",
+          "IssueUrl": "https://github.com/nlohmann/json/issues/2598"
+        },
+        {
+          "IssueTitle": "Error in download_test_data.vcxproj when compiling with Visual Studio 2019 16.7.7 Professional msbuild on Windows 10 2004 Professional",
+          "IssueUrl": "https://github.com/nlohmann/json/issues/2594"
+        },
+        {
+          "IssueTitle": "Error in test\\download_test_data.vcxproj custom build step when compiling with Visual Studio 2019 16.7.7 msbuild on Windows 10",
+          "IssueUrl": "https://github.com/nlohmann/json/issues/2593"
+        },
+        {
+          "IssueTitle": "Warnings  C4715 and C4127 when building json-3.9.1 with Visual Studio 2019 16.7.7",
+          "IssueUrl": "https://github.com/nlohmann/json/issues/2592"
+        },
+        {
+          "IssueTitle": "braced-init-list: array vs other constructor",
+          "IssueUrl": "https://github.com/nlohmann/json/issues/2583"
+        },
+        {
+          "IssueTitle": "Deserialization to std::array with non-default constructable types fails",
+          "IssueUrl": "https://github.com/nlohmann/json/issues/2574"
+        },
+        {
+          "IssueTitle": "compiler error: directive output may be truncated writing between 2 and 8 bytes",
+          "IssueUrl": "https://github.com/nlohmann/json/issues/2572"
+        },
+        {
+          "IssueTitle": "Compilation error when using NLOHMANN_JSON_SERIALIZE_ENUM ordered_json on libc++",
+          "IssueUrl": "https://github.com/nlohmann/json/issues/2491"
+        },
+        {
+          "IssueTitle": "Sample code in GIF slide outdated (cannot use emplace() with array)",
+          "IssueUrl": "https://github.com/nlohmann/json/issues/2457"
+        },
+        {
+          "IssueTitle": "from_json<std::wstring> is treated as an array on latest MSVC",
+          "IssueUrl": "https://github.com/nlohmann/json/issues/2453"
+        },
+        {
+          "IssueTitle": "Using custom string.",
+          "IssueUrl": "https://github.com/nlohmann/json/issues/2398"
+        },
+        {
+          "IssueTitle": "std::tuple dangling reference - implicit conversion",
+          "IssueUrl": "https://github.com/nlohmann/json/issues/2226"
+        },
+        {
+          "IssueTitle": "How can I use std::string_view as the json_key to \"operator []\" ?",
+          "IssueUrl": "https://github.com/nlohmann/json/issues/1529"
+        }
+      ]
+    },
+    {
+      "projectName": "fastjson",
+      "projectUrl": "https://github.com/alibaba/fastjson",
+      "issues": [
+        {
+          "IssueTitle": "com.alibaba.fastjson test fails (exception: file not found)",
+          "IssueUrl": "https://github.com/alibaba/fastjson/issues/3696"
+        },
+        {
+          "IssueTitle": "[Bug] 泛型字段 deserializeUsing 失效",
+          "IssueUrl": "https://github.com/alibaba/fastjson/issues/3693"
+        },
+        {
+          "IssueTitle": "为啥Android版本中的@JSONField没有deserializeUsing和serializeUsing？",
+          "IssueUrl": "https://github.com/alibaba/fastjson/issues/3691"
+        },
+        {
+          "IssueTitle": "JSONObject这个对象不能直接对里面字段进行驼峰转下划线",
+          "IssueUrl": "https://github.com/alibaba/fastjson/issues/3690"
+        },
+        {
+          "IssueTitle": "不是JsonArray的字符串用 JSONArray.parseArray方法有时抛异常，有时又不抛异常返回null",
+          "IssueUrl": "https://github.com/alibaba/fastjson/issues/3689"
+        },
+        {
+          "IssueTitle": "parseObject转换为字符串时出现异常",
+          "IssueUrl": "https://github.com/alibaba/fastjson/issues/3685"
+        },
+        {
+          "IssueTitle": "后台返回的数据不规范",
+          "IssueUrl": "https://github.com/alibaba/fastjson/issues/3681"
+        },
+        {
+          "IssueTitle": "encodeUTF8 error; nested exception is com.alibaba.fastjson.JSONException: encodeUTF8 error",
+          "IssueUrl": "https://github.com/alibaba/fastjson/issues/3680"
+        },
+        {
+          "IssueTitle": "带泛型的parseArray方法用法",
+          "IssueUrl": "https://github.com/alibaba/fastjson/issues/3679"
+        },
+        {
+          "IssueTitle": "fastjson为什么没有javadoc",
+          "IssueUrl": "https://github.com/alibaba/fastjson/issues/3677"
+        },
+        {
+          "IssueTitle": "JSON.toJSONString(obj, SerializerFeature.PrettyFormat)导致循环引用path异常",
+          "IssueUrl": "https://github.com/alibaba/fastjson/issues/3672"
+        },
+        {
+          "IssueTitle": "JSONValidator 校验json问题",
+          "IssueUrl": "https://github.com/alibaba/fastjson/issues/3671"
+        },
+        {
+          "IssueTitle": "GitHub Actions for Pull Request",
+          "IssueUrl": "https://github.com/alibaba/fastjson/issues/3668"
+        },
+        {
+          "IssueTitle": "fastjson指定序列化顺序(@JSONField(ordina)解)不生效",
+          "IssueUrl": "https://github.com/alibaba/fastjson/issues/3666"
+        },
+        {
+          "IssueTitle": "1.2.75存在反序列化问题,想问下大家怎么解决的?",
+          "IssueUrl": "https://github.com/alibaba/fastjson/issues/3665"
+        },
+        {
+          "IssueTitle": "对JavaBean使用JSON.toJSON和JSON.toJSONString生成的顺序不一样",
+          "IssueUrl": "https://github.com/alibaba/fastjson/issues/3662"
+        },
+        {
+          "IssueTitle": "是什么导致fastjson这么多漏洞?",
+          "IssueUrl": "https://github.com/alibaba/fastjson/issues/3657"
+        },
+        {
+          "IssueTitle": "反序列化json的时候，会将数组自动转成map",
+          "IssueUrl": "https://github.com/alibaba/fastjson/issues/3656"
+        },
+        {
+          "IssueTitle": "父类中get方法返回值是Object，子类重写后返回String，有时会导致WriteNullStringAsEmpty功能不生效",
+          "IssueUrl": "https://github.com/alibaba/fastjson/issues/3655"
+        },
+        {
+          "IssueTitle": "序列化驼峰问题",
+          "IssueUrl": "https://github.com/alibaba/fastjson/issues/3652"
+        },
+        {
+          "IssueTitle": "Android toJSONString 序列化ANR",
+          "IssueUrl": "https://github.com/alibaba/fastjson/issues/3651"
+        },
+        {
+          "IssueTitle": "TypeUtils.castToDate方法在Long值下format不生效",
+          "IssueUrl": "https://github.com/alibaba/fastjson/issues/3650"
+        },
+        {
+          "IssueTitle": "ListSerializer IndexOutOfBoundsException",
+          "IssueUrl": "https://github.com/alibaba/fastjson/issues/3649"
+        },
+        {
+          "IssueTitle": "jCenter将于今年5月关停",
+          "IssueUrl": "https://github.com/alibaba/fastjson/issues/3648"
+        },
+        {
+          "IssueTitle": "@JSONType (alphabetic = false ) don't have any effect on JSON.toJSONString",
+          "IssueUrl": "https://github.com/alibaba/fastjson/issues/3646"
+        }
+      ]
+    }
+  ]
+}
